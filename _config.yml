@@ -1,0 +1,8 @@
+title: Zhan6886love.GitHub.io
+description: 网站建设
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
